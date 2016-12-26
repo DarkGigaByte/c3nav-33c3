@@ -1,0 +1,24 @@
+{
+    "level": "0-1",
+    "titles": {
+        "de": "KinkyGeeks Assembly",
+        "en": "KinkyGeeks Assembly"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "allow_include",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [165.33, 119.89],
+                [169.98, 119.89],
+                [169.97, 115.12],
+                [165.28, 115.14],
+                [165.33, 119.89]
+            ]
+        ]
+    }
+}
